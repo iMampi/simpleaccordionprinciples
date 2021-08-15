@@ -21,6 +21,8 @@ button{
   height:auto !important;
   border-width: 3px;
   border-color: blue;
+  border-style: solid;
+  /*or border : 5px blue solid;*/
   padding: 5px;
   margin: 5px;
   border-color: blue;
